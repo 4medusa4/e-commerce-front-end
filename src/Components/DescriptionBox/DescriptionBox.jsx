@@ -16,7 +16,8 @@ const DescriptionBox = () => {
           fastening long sleeve shirt with utility pockts and full front button
           fastening.
         </p>
-        <p>long sleeve shirt with utility pockts and full front button fastening.long sleeve shirt with utility pockts and full front button fastening. long sleeve shirt with utility pockts and full front button fastening
+        <p>long sleeve shirt with utility pockts and full front button 
+          fastening.long sleeve shirt with utility pockts and full front button fastening. long sleeve shirt with utility pockts and full front button fastening
         long sleeve shirt with utility pockts and full front button fastening.</p>
       </div>
     </div>
